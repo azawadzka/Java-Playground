@@ -9,7 +9,4 @@ public enum Mars implements IPlanet {
     public Life getLife() {
         return life;
     }
-
-    public static void main(String[] args) {
-    }
 }

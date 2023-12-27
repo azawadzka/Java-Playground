@@ -15,5 +15,5 @@
     - equivalent to default parameters in Python 
 
 ### Sources
-- Effective Java
-- 
+- Effective Java: Programming Language Guide, Joshua Bloch
+- [A Guide to JUnit 5, Baeldung](https://www.baeldung.com/junit-5)

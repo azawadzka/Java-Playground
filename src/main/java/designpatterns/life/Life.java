@@ -24,8 +24,11 @@ public class Life {
         flora = builder.flora;
     }
 
-    public static void main(String[] args) {
-        Life life = new Life.Builder().fauna().flora().build();
-        System.out.println(life);
+    public boolean hasFauna() {
+        return fauna;
+    }
+
+    public boolean hasFlora() {
+        return flora;
     }
 }
